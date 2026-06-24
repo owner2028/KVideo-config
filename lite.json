@@ -56,14 +56,6 @@
     "priority": 5
   },
   {
-    "id": "dbzy",
-    "name": "🎬豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "dytt",
     "name": "🎬电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
